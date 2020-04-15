@@ -1,0 +1,50 @@
+{'url': 'https://www.cnbeta.com/articles/science/967813.htm', 'title': '“海水稻”科技攻关 袁隆平这么说'}
+{'url': 'https://www.cnbeta.com/articles/science/967695.htm', 'title': '打破世界纪录！科学家研发出转化效率接近50%的太阳能电池'}
+{'url': 'https://www.cnbeta.com/articles/science/967849.htm', 'title': '植物学家寻找消失的苹果：遗弃140年的果园中发现10种灭绝苹果'}
+{'url': 'https://www.cnbeta.com/articles/science/965759.htm', 'title': '研究发现新冠病毒在户外空气中传播能力令人吃惊'}
+{'url': 'https://www.cnbeta.com/articles/science/967755.htm', 'title': '两种新型太阳能电池打破三项纪录：包括最高效率纪录'}
+{'url': 'https://www.cnbeta.com/articles/science/967573.htm', 'title': '最新研究：症状较轻的新冠患者感染初期传染性最强'}
+{'url': 'https://www.cnbeta.com/articles/science/967627.htm', 'title': '新研究称火烈鸟之间的友谊可以持续多年'}
+{'url': 'https://www.cnbeta.com/articles/science/967727.htm', 'title': '特朗普吹捧的抗新冠药品被瑞典等国叫停 CIA内部通告“慎用”'}
+{'url': 'https://www.cnbeta.com/articles/science/967645.htm', 'title': 'ESA公布未来宇航服概念手套'}
+{'url': 'https://www.cnbeta.com/articles/science/967647.htm', 'title': '长时间停留太空可能导致宇航员脑容积的永久性变化'}
+{'url': 'https://www.cnbeta.com/articles/science/967531.htm', 'title': '美国医生们可能发现了另一种挽救生命的新冠治疗药物'}
+{'url': 'https://www.cnbeta.com/articles/science/967587.htm', 'title': '中国率先开启新冠疫苗二期临床研究'}
+{'url': 'https://www.cnbeta.com/articles/science/967501.htm', 'title': '研究称新冠病毒变异菌株可能影响疫苗的开发'}
+{'url': 'https://www.cnbeta.com/articles/science/967501.htm', 'title': '研究称新冠病毒变异菌株可能影响疫苗的开发'}
+{'url': 'https://www.cnbeta.com/articles/science/967789.htm', 'title': 'MIT推出无线盒设备  可监测新冠患者居家呼吸和活动'}
+{'url': 'https://www.cnbeta.com/articles/science/967663.htm', 'title': '研究发现地中海式饮食可能是预防痴呆症的一种简单方法'}
+{'url': 'https://www.cnbeta.com/articles/science/967611.htm', 'title': '被隼鸟二号砸出17米大坑的“龙宫”表面只有900万岁'}
+{'url': 'https://www.cnbeta.com/articles/science/967545.htm', 'title': 'MIT开发的无线盒子可在家中检测到COVID-19患者的动作及呼吸'}
+{'url': 'https://www.cnbeta.com/articles/science/967571.htm', 'title': '麻省理工学院科学家正尝试通过感官输入来“操纵”梦境'}
+{'url': 'https://www.cnbeta.com/articles/science/967619.htm', 'title': 'Rocket Lab与日本创企Synspective合作 计划将其首颗卫星送入轨道'}
+{'url': 'https://www.cnbeta.com/articles/science/967565.htm', 'title': '[图]疫情期间如何操控好奇号？NASA晒员工远程办公照片'}
+{'url': 'https://www.cnbeta.com/articles/science/967589.htm', 'title': '时间真的在流动？爱因斯坦：过去和未来可能只是幻觉'}
+{'url': 'https://www.cnbeta.com/articles/science/967367.htm', 'title': '[图]深海探险队发现30种新物种  包括已知最长的动物'}
+{'url': 'https://www.cnbeta.com/articles/science/967603.htm', 'title': '新发现的“鬼鬼祟祟”的小行星将与地球擦肩而过 比地月距离更近'}
+{'url': 'https://www.cnbeta.com/articles/science/967463.htm', 'title': '澳大利亚海洋研究人员发现了世界上最长的动物'}
+{'url': 'https://www.cnbeta.com/articles/science/967561.htm', 'title': '狼蛛毒液被发现可以有效缓解疼痛且不会成瘾'}
+{'url': 'https://www.cnbeta.com/articles/science/967329.htm', 'title': '科学家们证明其创造的纳米级碳晶格比钻石更坚硬'}
+{'url': 'https://www.cnbeta.com/articles/science/967297.htm', 'title': '天文学家发现有记录以来最亮、能量最大的超新星'}
+{'url': 'https://www.cnbeta.com/articles/science/967579.htm', 'title': '那些宇宙中怪异的恒星：最大恒星直径是太阳1700倍'}
+{'url': 'https://www.cnbeta.com/articles/science/967315.htm', 'title': 'NASA再次检查毅力号火星车的成像仪器 有望今夏发射升空'}
+{'url': 'https://www.cnbeta.com/articles/science/967259.htm', 'title': '总投资约1.7亿元 “中国天眼”数据中心将落地建设'}
+{'url': 'https://www.cnbeta.com/articles/science/967211.htm', 'title': '哈勃望远镜发现遥远的螺旋星系中散布着大量“婴儿”恒星'}
+{'url': 'https://www.cnbeta.com/articles/science/967537.htm', 'title': '入侵梦境 MIT：当梦被破解，现实生活将受益'}
+{'url': 'https://www.cnbeta.com/articles/science/967337.htm', 'title': '全球“大隔离”的意外收获：空气更干净，地壳运动减弱'}
+{'url': 'https://www.cnbeta.com/articles/science/967161.htm', 'title': '欧空局BepiColombo航天器在飞往水星的途中飞掠地球'}
+{'url': 'https://www.cnbeta.com/articles/science/967311.htm', 'title': '剑桥专家呼吁在COVID-19流行期间普及戴口罩'}
+{'url': 'https://www.cnbeta.com/articles/science/967143.htm', 'title': 'NASA HiRise团队分享火星蜿蜒峡谷照：像极了一条巨龙'}
+{'url': 'https://www.cnbeta.com/articles/science/967221.htm', 'title': '0到1，中国有机夜明珠“开道超车”'}
+{'url': 'https://www.cnbeta.com/articles/science/967175.htm', 'title': '解决数十年难题：埃因霍温研究人员开发出能发光的硅材料'}
+{'url': 'https://www.cnbeta.com/articles/science/967155.htm', 'title': '闯入太阳系，TA是来为我们揭秘天体与生命起源的？'}
+{'url': 'https://www.cnbeta.com/articles/science/967375.htm', 'title': '物理学家在黄金表面观察到马约拉纳费米子'}
+{'url': 'https://www.cnbeta.com/articles/science/967287.htm', 'title': 'Folding@home接近2.5Exaflops算力 超越Top500超级计算机'}
+{'url': 'https://www.cnbeta.com/articles/science/967129.htm', 'title': '陨石中发现蛋白质，暗示地外生命存在？'}
+{'url': 'https://www.cnbeta.com/articles/science/967099.htm', 'title': '因疫情俄罗斯联盟2号火箭生产停摆 或对航天业带来更大影响'}
+{'url': 'https://www.cnbeta.com/articles/science/931475.htm', 'title': '“中国天眼”通过国家验收正式开放运行'}
+{'url': 'https://www.cnbeta.com/articles/science/967159.htm', 'title': '计算机建模为奥陌陌之类的星际天体给出了新的解释'}
+{'url': 'https://www.cnbeta.com/articles/science/966977.htm', 'title': '海平面下降帮猴子到达南美洲'}
+{'url': 'https://www.cnbeta.com/articles/science/967141.htm', 'title': '5亿年前神秘海底生物“网络群居” 还会克隆繁殖'}
+{'url': 'https://www.cnbeta.com/articles/science/967125.htm', 'title': 'OSIRIS-REx即将对Bennu采样任务展开预演'}
+{'url': 'https://www.cnbeta.com/articles/science/966767.htm', 'title': '《科学》发表饶子和院士团队新冠病毒研究成果'}
